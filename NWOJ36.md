@@ -76,13 +76,13 @@ Russian President Vladimir Putin was one of the first international leaders to c
 
 In the past 5 years, more than one billion of US Dollars has been paid to organizations in China through U.S. grants and contracts, and another $870 million has been paid to companies in Russia. Here are just a few of the projects financed by U.S. taxpayers:
 
-▪️ $58.7 million from the State Department, including $96,875 for gender equality through a New Yorker magazine cartoon exhibition;
-▪️ $51.6 million from the Department of Defense, including $6 million for technical support of military deployment and distribution software - equipment delivery and supplies;
-▪️ $4.2 million from healthcare and social services, including $770,466 for a state laboratory in Russia to train cats on treadmill;
-▪️ $2.4 million for Russian alcohol and drug research;
-▪️ $2 million directed to China's Wuhan Institute of Virology for dangerous experiments on bat and transgenic mice coronaviruses;
-▪️ $1.6 million to Chinese companies from the National School Lunch Program;
-▪️ $1.45 million to track the pandemic virus.
++ $58.7 million from the State Department, including $96,875 for gender equality through a New Yorker magazine cartoon exhibition;
++ $51.6 million from the Department of Defense, including $6 million for technical support of military deployment and distribution software - equipment delivery and supplies;
++ $4.2 million from healthcare and social services, including $770,466 for a state laboratory in Russia to train cats on treadmill;
++ $2.4 million for Russian alcohol and drug research;
++ $2 million directed to China's Wuhan Institute of Virology for dangerous experiments on bat and transgenic mice coronaviruses;
++ $1.6 million to Chinese companies from the National School Lunch Program;
++ $1.45 million to track the pandemic virus.
 
 > The list goes on .. It includes various individual entrepreneurs, law firms, and security companies. It's clear that some of the money went towards legitimate contracts, such as those with RosCosmos. But what about the rest? How much went towards illegitimate companies?
 
