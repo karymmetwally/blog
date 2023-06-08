@@ -106,7 +106,7 @@ At the same time, supply is struggling to keep up with rising demand, especially
 
 > Sanctions seems to be a beneficial incentives for Russia’s economy but the danger of overheating as war shocks wear off is omnipresent.
 
-[More Info](X)
+[More Info](https://inkstickmedia.com/why-are-sanctions-failing-in-russia/)
 
 ---
 
