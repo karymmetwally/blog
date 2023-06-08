@@ -120,8 +120,6 @@ The new gas hub will be established in the south of Iran in the industrial regio
 
 [More Info](https://www.oreanda-news.com/en/v_mire/iran-will-create-a-gas-hub-with-the-participation-of-russia-turkmenistan-and-/article1477821/)
 
----
-
 ## Opportunities 
 
 ### ☞ Natural gas up
@@ -143,8 +141,6 @@ The largest single source of uranium supply has pretty much been locked up just 
 ### ☞ North Macedonia's real estate investment up
 
 Macedonians are increasingly looking to invest in real estate to protect the value of their savings amid high inflation and financial uncertainty, a trend that has pushed up  real estates prices in the capital Skopje. As inflation erodes the value of savings, investing in real estate has become the preferred alternative. Rising prices haven’t dented the demand for newly built apartments in Skopje, which has become an attractive destination for both investors and homebuyers seeking long-term security and value, real estate professionals.
-
----
 
 ## My Opinion 
 
