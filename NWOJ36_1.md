@@ -145,9 +145,9 @@ Perhaps this is the bottom, perhaps not but with rigs being cut in America the n
 
 ---
 
-### ☞ Uranium 
+### ☞ Uranium up
 
-the largest single source of uranium supply has pretty much been locked up just as utilities come to market to sign new contracts. I wonder what that means?
+The largest single source of uranium supply has pretty much been locked up just as more utilities come to market to sign new contracts. I wonder what that means? The only way is up.
 
 ---
 
