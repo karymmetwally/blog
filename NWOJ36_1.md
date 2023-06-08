@@ -19,8 +19,7 @@ title: NWOJ36
 
 |  CONTENT   TL; DR|
 | :-----------|  
-| UAE introduces first ever 9% corporate tax |  
-| North Macedonia's real estate investment boom sends prices soaring |
+| UAE introduces first ever 9% corporate tax |
 | Russia’s war in Ukraine has brought a new importance to Central Asia (the stans) |
 | Turkey is getting ready |
 | More than $1.3 billion of American taxpayers' money has been sent to China and Russia |
@@ -48,16 +47,6 @@ That said,
 > The UAE is not giving up its tax-free status just yet. The tax incentive helped it carve out a role as an international trade and tourism hub and magnet for the ultra-rich.
 
 [More Info](https://www.thenationalnews.com/business/economy/2023/01/09/uae-to-keep-9-corporate-tax-rate-for-foreseeable-future-finance-ministry-official-says/#:~:text=Last%20January%2C%20the%20UAE%20introduced,after%20June%201%20this%20year.)
-
----
-
-###  North Macedonia's real estate investment boom sends prices soaring
-
-Macedonians are increasingly looking to invest in real estate to protect the value of their savings amid high inflation and financial uncertainty, a trend that has pushed up  real estates prices in the capital Skopje. As inflation erodes the value of savings, investing in real estate has become the preferred alternative.
-
-> Rising prices haven’t dented the demand for newly built apartments in Skopje, which has become an attractive destination for both investors and homebuyers seeking long-term security and value, real estate professionals.
-
-[More Info](X)
 
 ---
 
@@ -148,6 +137,12 @@ Perhaps this is the bottom, perhaps not but with rigs being cut in America the n
 ### ☞ Uranium up
 
 The largest single source of uranium supply has pretty much been locked up just as more utilities come to market to sign new contracts. I wonder what that means? The only way is up.
+
+---
+
+### ☞ North Macedonia's real estate investment up
+
+Macedonians are increasingly looking to invest in real estate to protect the value of their savings amid high inflation and financial uncertainty, a trend that has pushed up  real estates prices in the capital Skopje. As inflation erodes the value of savings, investing in real estate has become the preferred alternative. Rising prices haven’t dented the demand for newly built apartments in Skopje, which has become an attractive destination for both investors and homebuyers seeking long-term security and value, real estate professionals.
 
 ---
 
