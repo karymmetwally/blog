@@ -19,7 +19,7 @@ title: NWOJ36
 
 |  CONTENT   TL; DR|
 | :-----------|  
-| UAE introduces first-ever 9% corporate tax |  
+| UAE introduces first ever 9% corporate tax |  
 | North Macedonia's real estate investment boom sends prices soaring |
 | Russia’s war in Ukraine has brought a new importance to Central Asia (the stans) |
 | Turkey is getting ready |
@@ -31,7 +31,7 @@ title: NWOJ36
 
 ## In the News 
 
-### UAE introduces first-ever 9% corporate tax
+### UAE introduces first ever 9% corporate tax
 
 The United Arab Emirates has introduced a 9% business tax with exemptions for numerous free zones as the formerly tax-free oil producer seeks to boost non-oil revenue and remain a regional commercial hub.
 
@@ -66,8 +66,6 @@ Macedonians are increasingly looking to invest in real estate to protect the val
 The war in Ukraine presented the stans with new opportunities. Russia, China, the European Union and the United States have noticeably increased their engagement with Central Asia since the Russian military invasion of Ukraine in February last year. 
 
 > This area has more resources and manufacturing capacity than the rest of the world, great demographics and low debt. However, preserving relations with both Russia, China, and the West during these turbulent times has become a balancing act. Kazakhstan took part in the June 2 meeting of BRICS foreign ministers in Cape Town, South Africa. Kazakhstan is actively seeking to join BRICS. If the Central Asia countries join BRICS, it will be a major blow to the West.
-
-[More Info](X)
 
 [More Info](X)
 
