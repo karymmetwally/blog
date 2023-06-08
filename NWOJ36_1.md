@@ -86,7 +86,7 @@ In the past 5 years, more than one billion of US Dollars has been paid to organi
 
 > The list goes on .. It includes various individual entrepreneurs, law firms, and security companies. It's clear that some of the money went towards legitimate contracts, such as those with RosCosmos. But what about the rest? How much went towards illegitimate companies?
 
-[More Info](X)
+[More Info](https://heartlandernews.com/2023/06/07/feds-spent-over-1-3-billion-in-russia-china-on-controversial-projects/#:~:text=Feds%20spent%20over%20%241.3%20billion%20in%20Russia%2C%20China%20on%20controversial%20projects,-By%20Casey%20Harper&text=(The%20Center%20Square)%20%E2%80%93%20The,spending%20projects%20funded%20by%20taxpayers.)
 
 ---
 
