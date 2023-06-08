@@ -19,14 +19,15 @@ title: NWOJ36
 
 |  CONTENT   TL; DR|
 | :-----------|  
-| X |  
-| X |
-| X |
-| X |
-| X |
-| X |
-| X |
-| X |
+| UAE introduces first-ever 9% corporate tax |  
+| North Macedonia's real estate investment boom sends prices soaring |
+| Russia’s war in Ukraine has brought a new importance to Central Asia (the stans) |
+| Turkey is getting ready |
+| More than $1.3 billion of American taxpayers' money has been sent to China and Russia |
+| Sanctions seems to be beneficial to Russia .. but with a caveat |
+| Iran to establish gas hub with Russia, Turkmenistan and Qatar |
+| Opportunities |
+| My Opinion |
 
 ## In the News 
 
@@ -64,7 +65,9 @@ Macedonians are increasingly looking to invest in real estate to protect the val
 
 The war in Ukraine presented the stans with new opportunities. Russia, China, the European Union and the United States have noticeably increased their engagement with Central Asia since the Russian military invasion of Ukraine in February last year. 
 
-> This area has more resources and manufacturing capacity than the rest of the world, great demographics and low debt. However, preserving relations with both Russia, China, and the West during these turbulent times has become a balancing act. 
+> This area has more resources and manufacturing capacity than the rest of the world, great demographics and low debt. However, preserving relations with both Russia, China, and the West during these turbulent times has become a balancing act. Kazakhstan took part in the June 2 meeting of BRICS foreign ministers in Cape Town, South Africa. Kazakhstan is actively seeking to join BRICS. If the Central Asia countries join BRICS, it will be a major blow to the West.
+
+[More Info](X)
 
 [More Info](X)
 
@@ -115,16 +118,6 @@ Indeed , the economic temperature is rising thanks to increased consumer spendin
 At the same time, supply is struggling to keep up with rising demand, especially with a very tight labour market posing a risk of overheating.
 
 > Sanctions seems to be a beneficial incentives for Russia’s economy but the danger of overheating as war shocks wear off is omnipresent.
-
-[More Info](X)
-
----
-
-### Kazakhstan seek to join BRICS
-
-Kazakhstan took part in the June 2 meeting of BRICS foreign ministers in Cape Town, South Africa. Kazakhstan is actively seeking to join BRICS.
-
-> If the Central Asia countries join BRICS, it will be a major blow to the West.
 
 [More Info](X)
 
