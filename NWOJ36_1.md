@@ -56,7 +56,7 @@ The war in Ukraine presented the stans with new opportunities. Russia, China, th
 
 > This area has more resources and manufacturing capacity than the rest of the world, great demographics and low debt. However, preserving relations with both Russia, China, and the West during these turbulent times has become a balancing act. Kazakhstan took part in the June 2 meeting of BRICS foreign ministers in Cape Town, South Africa. Kazakhstan is actively seeking to join BRICS. If the Central Asia countries join BRICS, it will be a major blow to the West.
 
-[More Info](X)
+[More Info](https://asiatimes.com/2023/06/russian-war-highlights-significance-of-middle-corridor/)
 
 ---
 
