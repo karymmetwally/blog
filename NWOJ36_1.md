@@ -68,7 +68,7 @@ Russian President Vladimir Putin was one of the first international leaders to c
 
 > A sheer  number (7mn tourists) are expected to flock in Turkey this summer. They will bring along needed Dollars to relieve Turkey's forex negative reserve... Already the black market Lira rate is already in the 24's on its way to 25 for the dollar. Looks like it won't be the fast and violent devaluation that would make the Turkish equity market super juicy, but rather a consistent bleeding.
 
-[More Info](X)
+[More Info](https://www.france24.com/en/europe/20230523-russian-tourists-seek-new-destinations-as-europe-shuts-its-doors-over-ukraine-war)
 
 ---
 
