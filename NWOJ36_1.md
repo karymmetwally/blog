@@ -118,7 +118,7 @@ The new gas hub will be established in the south of Iran in the industrial regio
 
 > Thats a powerful group!! ... The plan is to turn the Persian Gulf and Asaluyeh into a gas hub. This, with the logistical assistance of Russia and Turkmenistan and Qatar's money. Tehran is already discussing cooperation with Moscow on ten oil and gas fields and work on some of them is already ongoing. Iran is an especially attractive country. One day it will be investment heaven.
 
-[More Info](X)
+[More Info](https://www.oreanda-news.com/en/v_mire/iran-will-create-a-gas-hub-with-the-participation-of-russia-turkmenistan-and-/article1477821/)
 
 ---
 
