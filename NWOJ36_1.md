@@ -126,7 +126,7 @@ The new gas hub will be established in the south of Iran in the industrial regio
 
 ### ☞ Natural gas up
 
-Perhaps this is the bottom, perhaps not but with rigs being cut in America the natty and coal equities look increasingly attractive to me.
+With rigs being cut in America the natty and coal equities look increasingly attractive to me.
 
 ---
 
