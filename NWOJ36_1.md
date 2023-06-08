@@ -82,6 +82,24 @@ Russian President Vladimir Putin was one of the first international leaders to c
 
 ---
 
+###  More than $1.3 billion of American taxpayers' money has been sent to China and Russia
+
+In the past 5 years, more than one billion of US Dollars has been paid to organizations in China through U.S. grants and contracts, and another $870 million has been paid to companies in Russia. Here are just a few of the projects financed by U.S. taxpayers:
+
+▪️ $58.7 million from the State Department, including $96,875 for gender equality through a New Yorker magazine cartoon exhibition;
+▪️ $51.6 million from the Department of Defense, including $6 million for technical support of military deployment and distribution software - equipment delivery and supplies;
+▪️ $4.2 million from healthcare and social services, including $770,466 for a state laboratory in Russia to train cats on treadmill;
+▪️ $2.4 million for Russian alcohol and drug research;
+▪️ $2 million directed to China's Wuhan Institute of Virology for dangerous experiments on bat and transgenic mice coronaviruses;
+▪️ $1.6 million to Chinese companies from the National School Lunch Program;
+▪️ $1.45 million to track the pandemic virus.
+
+> The list goes on .. It includes various individual entrepreneurs, law firms, and security companies. It's clear that some of the money went towards legitimate contracts, such as those with RosCosmos. But what about the rest? How much went towards illegitimate companies?
+
+[More Info](X)
+
+---
+
 ### Sanctions seems to be beneficial to Russia .. but with a caveat
 
 The number of Russians with above average income rose by 10 million. And, the number of Russians with upper-middle income increased by 9.4 million in 2022 to 53.1 million.
@@ -126,12 +144,6 @@ The new gas hub will be established in the south of Iran in the industrial regio
 
 ## Opportunities 
 
-### 	X
-
-X
-
----
-
 ### ☞ Natural gas up
 
 Perhaps this is the bottom, perhaps not but with rigs being cut in America the natty and coal equities look increasingly attractive to me.
@@ -152,51 +164,25 @@ the largest single source of uranium supply has pretty much been locked up just 
 
 ###  The Saudi's energy-inflation switch
 
-The demand side inflation is due to the fact the West is printing fiat money, while the supply side inflation is due to energy prices increase. It's obvious that the recent decline in Europe's inflation is due mainly to a drop in energy prices and only to a slight extent  to a decrease in food prices (fertilizers). What does this mean? Simply put, if Saudi Arabia increases energy prices once again, we will see a returning high inflation in Europe. And guess what? Saudi Arabia is due to raise oil prices in July. 
+The demand side inflation is due to the fact the West is printing fiat money, while the supply side inflation is due to energy prices increase. It's obvious that the recent decline in Europe's inflation is due mainly to a drop in energy prices and only to a slight extent to a decrease in food prices (fertilizers). What does this mean? Simply put, if Saudi Arabia increases energy prices once again, we will see a returning high inflation in Europe. And guess what? Saudi Arabia is due to raise oil prices in July. 
 
 This is what I call the Saudi switch. Looks like a clear explanation who plays against whom. A Saudi decrease in supply in the liquefied natural gas market and a cut of 1 million barrels per day in July will surely send prices soaring. And this will be amplified by a potentially higher demand in Asia. And the constant craving in Europe .. and the fact that the U.S needs to refill its depleted oil reserve at lower prices. And of course, the ACs are on now because of the hot summer season. Energy works both ways... Inflation will increase in the West and western banks would face some difficulties with commercial real estate due to higher interest rates and remote work.
 
 ---
 
-### More regulations for Crypto 
-
-Regulatory bodies such as the SEC and the Commodity Futures Trading Commission (CFTC) already went after Binance and Coinbase.
-
----
-
 ### So many layoffs happened in IT
 
-It turns out that managers are to blame. To please their ego in the company, they hired more people under them. 
-
-More departments with more people means more power means more money. So when the manager comes to manage a department with three people, and after a year he is managing three departments with 18 people, then he is managing five departments and more and more etc.
+It turns out that managers are to blame. To please their ego, they hired more people under them. More departments with more people means more power means more money.
 
 That's how it turned out that Google, Microsoft, Amazon, and others sucked in thousands and tens of thousands of useless managers, hiring thousands of useless people.
 
-Now with the war in Ukraine and AI, the situation has changed, the costs need to be cut. 
-
-Oh,  and AI is all over the place, soon it will replace the coffee machine copywriter.
+Now with the war in Ukraine and AI, the situation has changed, the salaries costs need to be cut. Oh,  and AI is all over the place, soon it will replace the coffee machine copywriter.
 
 The interesting thing here is that all this hiring frenzy has been building up the capitalization of the IT giants as well. 
 
-> Where do the managers bonuses that depend on the subordinate's bonuses managers go? The bubble- they pretends to be quietly and efficiently deflating-is about to burst loudly and there will be a fever in the markets. We won't have to wait too long.
+Where do the managers bonuses that depend on the subordinate's bonuses managers go? The bubble- they pretends to be quietly and efficiently deflating is about to burst loudly and there will be a mess in the markets. We won't have to wait too long.
 
----
-
-###  More than $1.3 billion of American taxpayers' money has been sent to China and Russia
-
-In the past 5 years, more than one billion of US Dollars has been paid to organizations in China through U.S. grants and contracts, and another $870 million has been paid to companies in Russia. Here are just a few of the projects financed by U.S. taxpayers:
-
-▪️ $58.7 million from the State Department, including $96,875 for gender equality through a New Yorker magazine cartoon exhibition;
-▪️ $51.6 million from the Department of Defense, including $6 million for technical support of military deployment and distribution software - equipment delivery and supplies;
-▪️ $4.2 million from healthcare and social services, including $770,466 for a state laboratory in Russia to train cats on treadmill;
-▪️ $2.4 million for Russian alcohol and drug research;
-▪️ $2 million directed to China's Wuhan Institute of Virology for dangerous experiments on bat and transgenic mice coronaviruses;
-▪️ $1.6 million to Chinese companies from the National School Lunch Program;
-▪️ $1.45 million to track the pandemic virus
-
-The full list is larger. It includes various individual entrepreneurs, law firms, and security companies. 
-
-> The list goes on .. It's clear that some of the money went towards legitimate contracts, such as those with RosCosmos. But what about the rest? How much went towards illegitimate companies?
+In addition, regulatory bodies such as the SEC and the Commodity Futures Trading Commission (CFTC) already went after Binance and Coinbase. And soon  they will go after other exchanges.
 
 ---
 <center>© Global Citizen 2023</center> 
