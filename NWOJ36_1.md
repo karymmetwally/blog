@@ -47,7 +47,7 @@ That said,
 
 > The UAE is not giving up its tax-free status just yet. The tax incentive helped it carve out a role as an international trade and tourism hub and magnet for the ultra-rich.
 
-[More Info](X)
+[More Info](https://www.thenationalnews.com/business/economy/2023/01/09/uae-to-keep-9-corporate-tax-rate-for-foreseeable-future-finance-ministry-official-says/#:~:text=Last%20January%2C%20the%20UAE%20introduced,after%20June%201%20this%20year.)
 
 ---
 
