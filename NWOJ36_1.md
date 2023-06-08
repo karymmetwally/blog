@@ -140,7 +140,7 @@ The new gas hub will be established in the south of Iran in the industrial regio
 Perhaps this is the bottom, perhaps not but with rigs being cut in America the natty and coal equities look increasingly attractive to me.
 
 ---
-
+ 
 ![](X)
 
 ---
