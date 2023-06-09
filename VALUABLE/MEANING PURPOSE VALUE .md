@@ -2,6 +2,9 @@
 title: MEANING PURPOSE VALUE 
 ---
 
+
+VALUE 
+---
 + WORTHWHILE 
 + VALID
 + VALUABLE 
