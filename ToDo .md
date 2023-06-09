@@ -2,7 +2,9 @@
 title: ToDo 
 ---
 
--[ ] negm clothes
+-[x] negm clothes
+
+
 
 
 - 
