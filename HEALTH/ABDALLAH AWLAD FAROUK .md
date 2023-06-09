@@ -3,6 +3,9 @@ title: ABDALLAH AWLAD FAROUK
 ---
 
 
+اسعار
+
+
 |لحوم |
 | :----:|
  | كبد ٩٠ |
