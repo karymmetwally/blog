@@ -3,13 +3,8 @@ title: CLOTHES
 ---
 
 
-Market Insights  Digital  eCommerce
+## Market Insights  Digital   eCommerce
 
-Fashion - Egypt
-
-Egypt
-
- Highlights
 
 Revenue in the Fashion market is projected to reach US$1.24bn in 2023.
 
@@ -57,11 +52,9 @@ Market numbers for the total market sizes (online + offline) can also be found o
 
  IN-SCOPE
 
-Accessories such as Zara
-
-Apparel such as Zalando
-
-Footwear such as Adidas
++ Accessories such as Zara
++ Apparel such as Zalando
++ Footwear such as Adidas
 
  OUT-OF-SCOPE
 
@@ -72,8 +65,6 @@ Sports outfits and Sports footwear such as Nike
 Work clothes such as Carhartt
 
  Reports
-
-￼
 
 Statista Digital Market Outlook
 
@@ -86,8 +77,6 @@ Study Details
  eCommerce report 2023
 
  Methodology
-
-￼
 
 Download PDFFAQs and more info on the methodology
 
@@ -141,46 +130,6 @@ Source: Statista Market Insights
 
  Comparable Estimates - Fashion (Worldwide)
 
-in trillion USD (US$)
-
-20172018201920202021202220232024202520262027
-
-Statista
-
-0.44
-
-0.53
-
-0.60
-
-0.75
-
-0.90
-
-0.84
-
-0.99
-
-1.12
-
-1.27
-
-1.35
-
-1.45
-
-ShopifyPlus
-
-0.48
-
-0.55
-
-0.61
-
-0.66
-
-0.71
-
 Notes: The chart “Comparable Estimates” shows the forecasted development of the selected market from different sources. Please see the additional information for methodology and publication date.
 
 Most recent update: Feb 2023
@@ -189,106 +138,16 @@ Most recent update: Feb 2023
 
 in USD (US$)TotalAccessoriesApparelFootwear2017201820192020202120222023202420252026202701020304050
 
-26.69
-
-27.73
-
-29.77
-
-41.09
-
-47.92
-
-40.02
-
-43.83
-
-48.00
-
-53.69
-
-53.52
-
-54.28
-
-11.94
-
-12.42
-
-12.85
-
-15.46
-
-16.79
-
-12.96
-
-12.44
-
-12.28
-
-12.48
-
-12.04
-
-11.76
-
-13.90
-
-14.92
-
-16.80
-
-25.47
-
-31.50
-
-28.00
-
-32.81
-
-37.73
-
-43.98
-
-44.37
-
-45.63
-
-5.19
-
-5.10
-
-5.25
-
-6.81
-
-7.55
-
-6.03
-
-6.46
-
-6.86
-
-7.44
-
-7.43
-
-7.51
 
 Average Revenue per User by Segment 2026
 
 Accessories  
-
 12.04
 
 Apparel  
-
 44.37
 
 Footwear  
-
 7.43
 
 Most recent update: Feb 2023
@@ -323,62 +182,13 @@ In the Fashion segment, the global online share of revenues already reached 23% 
 
 Sales Channels
 
- Online & Offline Split
-
-in percent100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0OfflineOnline202020250255075100
-
-97.2
-
-96.4
-
-95.9
-
-93.3
-
-91.6
-
-92.8
-
-92.1
-
-90.6
-
-88.8
-
-88.5
-
-88.3
-
-2.8
-
-3.6
-
-4.1
-
-6.7
-
-8.4
-
-7.2
-
-7.9
-
-9.4
-
-11.2
-
-11.5
-
-11.7
 
 Online & Offline Split 2026
 
 Offline  
-
 88.5
 
 Online  
-
 11.5
 
 Most recent update: Feb 2023
@@ -427,11 +237,11 @@ Data coverage:
 
 Data refers to B2C enterprises. Figures are based on the sale of physical goods via a digital channel to a private end consumer. This definition encompasses purchases via desktop computers (including notebooks and laptops) as well as purchases via mobile devices (e.g., smartphones and tablets). The following are not included in the eCommerce market: digitally distributed services (see instead: eServices), digital media downloads or streams, digitally distributed goods in B2B markets, and the digital purchase or resale of used, defective, or repaired goods (reCommerce and C2C). All monetary figures refer to the annual gross revenue and do not factor in shipping costs.
 
-Modeling approach / Market size:
+### Modeling approach / Market size:
 
 Market sizes are determined by a combined top-down and bottom-up approach, based on a specific rationale for each market segment. As a basis for evaluating markets, we use annual financial reports of the market-leading companies and industry associations, third-party studies and reports, survey results from our primary research (e.g., Statista Global Consumer Survey), data on shopping behavior (e.g., Google Trends, Alibaba Trends), and performance factors (e.g., user penetration, price/product). Furthermore, we use relevant key market indicators and data from country-specific associations such as GDP, consumer spending, internet penetration, and population. This data helps us estimate the market size for each country individually.
 
-Forecasts:
+### Forecasts:
 
 In our forecasts, we apply diverse forecasting techniques. The selection of forecasting techniques is based on the behavior of the particular market. For example, the S-curve function and exponential trend smoothing are well suited for forecasting digital products and services due to the non-linear growth of technology adoption. The main drivers are GDP per capita, consumer spending per capita, internet penetration, and population.
 
@@ -585,8 +395,6 @@ CONTACT
 
 Get in touch with us. We are happy to help.
 
-￼
-
 Meredith Alda
 
 Client Support Specialist– Contact (United States)
@@ -600,8 +408,6 @@ Tel
 +1 212 419-8219
 
 Mon - Fri, 9am - 6pm (EST)
-
-￼
 
 Yolanda Mega
 
@@ -617,8 +423,6 @@ Tel
 
 Mon - Fri, 9am - 5pm (SGT)
 
-￼
-
 Kisara Mizuno
 
 Senior Business Development Manager– Contact (Asia)
@@ -632,8 +436,6 @@ Tel
 +81 3 6427 6800
 
 Mon - Fri, 10:00am - 6:00pm (JST)
-
-￼
 
 Lodovica Biagi
 
@@ -662,25 +464,3 @@ support@statista.com
 Tel
 
 +1 212 419-5774
-
-Mon - Fri, 9am - 6pm (EST)
-
-Home
-
-About Statista
-
-Career
-
-Contact
-
-Help & FAQ
-
-Report Bug
-
-Our Media Partners
-
-Privacy
-
-Imprint
-
-
