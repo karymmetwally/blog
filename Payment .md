@@ -1,0 +1,7 @@
+---
+title: Payment 
+---
+
+We pay
+---
+
