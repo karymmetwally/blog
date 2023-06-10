@@ -6,6 +6,7 @@ title: Strategy
 IMPORTANT 
 ---
 + mental consistency
++ blocking تقفيل
 + enter hoops (hammer hoop take time )
 + correct position (mental stability)
 + cleaning around the hoop
