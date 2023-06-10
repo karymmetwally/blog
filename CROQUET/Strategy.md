@@ -9,6 +9,7 @@ IMPORTANT
 + correct position (mental stability)
 + cleaning around the hoop
 +  hiding
++ niche عشش
 
 OTHERS 
 ---
