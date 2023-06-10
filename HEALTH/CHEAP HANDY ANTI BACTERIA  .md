@@ -31,6 +31,7 @@ OILS
 + cloves 
 + teatree
 + menthol
++ olive oil 
 + lavender 
 + زعتر
 
