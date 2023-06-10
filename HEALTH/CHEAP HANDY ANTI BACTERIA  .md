@@ -25,6 +25,16 @@ KITCHEN
 + FERMENTED
 + DAIRY YOGURTS PROBIOTICS
 
+OILS
+---
++ cinnamon 
++ cloves 
++ teatree
++ menthol
++ lavender 
++ زعتر
+
+
 SPICES 
 ---
 + BLACK PEPPER 
