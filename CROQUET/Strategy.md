@@ -10,6 +10,7 @@ IMPORTANT
 + cleaning around the hoop
 +  hiding
 + niche عشش
++ keep your balls together precautions 
 
 OTHERS 
 ---
