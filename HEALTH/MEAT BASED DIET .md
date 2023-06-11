@@ -2,7 +2,11 @@
 title: MEAT BASED DIET 
 ---
 
- taking a statin.
+ Check out this amazing story from Paul H...
+
+Hi Paul, I've been animal-based for two years and taking your Beef Organs supplements for a year now and at 62 years of age, I feel unstoppable.
+
+My annual blood work I got a few months ago showed my total cholesterol at 210 and LDL at 157 which are above the normal range and my doctor said I should think about taking a statin.
 
 So just to make sure he was wrong about that I got a CT calcium heart scan.
 
