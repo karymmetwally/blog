@@ -9,33 +9,6 @@ Mapped: The Growth in House Prices by Country
 
 ![](IMG_20230611_041201.jpg)
 
-Published
-
- 1 day ago 
-
-on
-
- June 9, 2023
-
-By
-
- Dorothy Neufeld
-
-Tweet
-
-Share
-
-Share
-
-Reddit
-
-Email
-
-The following slider shows both nominal and real housing prices by country. Use slider arrows to navigate.
-
-￼
-
-￼
 
 MIAMHOUSING-NOMINAL
 
