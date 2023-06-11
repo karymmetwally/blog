@@ -7,7 +7,7 @@ MARKETS IN A MINUTE
 
 Mapped: The Growth in House Prices by Country
 
-
+![](IMG_20230611_041201.jpg)
 
 Published
 
