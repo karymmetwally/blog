@@ -3,17 +3,11 @@ title: REAL ESTATES
 ---
 
 
-SEARCH
-
-￼
-
-0
-
 MARKETS IN A MINUTE
 
 Mapped: The Growth in House Prices by Country
 
-￼
+
 
 Published
 
