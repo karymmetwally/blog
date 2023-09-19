@@ -1,6 +1,2 @@
-.---
-title: index 
----
-
 ## Hello
-> Hi
+> Hi and Hello
