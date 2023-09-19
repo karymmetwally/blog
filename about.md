@@ -10,7 +10,7 @@ This is a blog that reflects the authority of the blog. This is a blog that refl
 3. Newest
 
 ---
-
 Hello  Hello hello
 ---
 
+This is a **blog** that reflects the authority of the blog. This is a blog that --reflects-- the authority of the blog. index.md .This is a blog that reflects the authority of the blog.
