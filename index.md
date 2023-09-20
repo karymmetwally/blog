@@ -1,4 +1,4 @@
-## Arts
+## Run Joe
 > Paintings and Arts
 
 [new](new.html)
