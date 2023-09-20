@@ -1,8 +1,5 @@
-## Run Joe
-> Paintings and Arts
 
-[new](new.html)
-[about](about.md)
+> Paintings and Arts
 
 ![images](/images.jpeg)
 
