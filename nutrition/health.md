@@ -60,9 +60,13 @@ In 1933 James Shute was recommending the use of vitamin E for preventing the clo
 
 Later, referring to the decades of hostility of the medical establishment to vitamin E, Dr. Shute said “...an obstetrician was unduly hardy and audacious to try it.” The spectrum of vitamin E’s protective effects (like those of aspirin) has been consistently misrepresented in the medical literature.
 
+### Protect the heart
+
 Abruptio placentae (premature detachment of the placenta) has often been blamed on the use of vitamin E, because of vitamin E’s reputation for preventing abnormal clotting, though the evidence tends to suggest instead that vitamin E (like aspirin) reduces the risk of pregnancy-related hemorrhaging.
 
-However, if large amounts of cortisone are produced for a long time, the toxic effects of the hormone begin to appear. According to Meerson, heart attacks are provoked and aggravated by the cortisone produced during stress. (Meerson and his colleagues have demonstrated that the progress of a heart attack can be halted by a treatment including natural substances such as vitamin E and magnesium.)
+However, if large amounts of cortisone are produced for a long time, the toxic effects of the hormone begin to appear. 
+
+According to Meerson, heart attacks are provoked and aggravated by the cortisone produced during stress. (Meerson and his colleagues have demonstrated that the progress of a heart attack can be halted by a treatment including natural substances such as vitamin E and magnesium.)
 
 Hydroxynonenal. The quantity of PUFA in the tissues strongly determines the susceptibility of the tissue to injury by radiation and other stresses. But a diet rich in PUFA will produce brain damage even without exceptional stressors, when there aren’t enough antioxidants, such as vitamin E and selenium, in the diet.
 
@@ -72,18 +76,24 @@ In recent tests, aspirin has been found to prevent the misfolding of the prion p
 
 vitamin E’s effects, and those of many terpenoids and steroids and bioflavonoids found in foods, include hormone-like actions as well as antioxidant and pro-oxidant functions. The concept of “adaptogen” can include things that act like both drugs and nutrients.
 
+### Regulating Calcium
+
 Vitamins K, E, and A are important in regulating calcium metabolism, and preventing osteoporosis. Aspirin (with antiestrogenic and vitamin E-like actions) is protective against bone resorption and hypercalcemia.
 
 Not infrequently physicians tell individuals with kidney stones to avoid all milk, thereby causing stones to form even more rapidly. Such calcium deposits can also occur when vitamin E is undersupplied. After open-heart surgery, when both magnesium and vitamin E are drastically needed and could easily be given, the calcification of heart muscles often becomes so severe that it can cause death within a few days.
 
 The importance of the solvent was seen by an experimenter studying the effect of vitamin E on age pigment in nerves. It occurred to that experimenter to test the ethyl alcohol alone, and he found that it produced almost the same effect as that produced by the solution of alcohol and vitamin E. Workers with hormones often just assume that a little alcohol wouldn't affect their system. But when the effects of alcohol by itself have been studied
 
-a deficiency of vitamin E accelerates the spontaneous decomposition of the unsaturated fats, accelerating the aging of collagen
+### Anti-aging 
+
+A deficiency of vitamin E accelerates the spontaneous decomposition of the unsaturated fats, accelerating the aging of collagen
 
 How the “Longevity Molecule” Helps Slow Aging*
 You have naturally-occurring antioxidant molecules in your body that help defend against the aging process – including vitamin C, a-lipoic acid, resveratrol, carnitine, carnosine and vitamin E. One of these stands apart from the others.
 
 The medical establishment has expended a great amount of money and time in the last 60 years fighting the use of vitamin E or selenium for treating or preventing heart disease, though many physicians now take vitamin E themselves. But people who study free radical chemistry recognize that polyunsaturated fats are highly susceptible to oxidation, and that saturated fats tend to slow their degradation, acting to some extent as antioxidants
+
+### Antioxidant 
 
 Cholesterol, vitamin E, progesterone, and vitamin D are considered to be "structural antioxidants," that prevent oxidation partly by stabilizing molecular structures.
 
@@ -96,7 +106,7 @@ Iron is now tending to be recognized as a factor in inflammation. Vitamin E was 
 
 This would emphasize high protein, low unsaturated fats, low iron, and high antioxidant consumption, with a moderate or low starch consumption. In practice, this means that a major part of the diet should be milk, cheese, eggs, shellfish, fruits and coconut oil, with vitamin E and salt as the safest supplements. It
 
-Benefits of Vitamin E
+### Benefits of Vitamin E
 
 ==Dinkov also reviews the benefits of other supplements, such as vitamin E, which inhibits lipolysis, improves glucose metabolism, acts as an estrogen antagonist and helps counteract much of the damage caused by linoleic acid and other polyunsaturated fats (PUFAs).==
 
@@ -112,6 +122,9 @@ But it is highly misleading to consider that as the explanation for its many ben
 
 Becoming aware of the real value of vitamin E will have far reaching implications in nutrition and medicine.
 
+
+### For heart diseases
+
 Vitamin E was advocated as an effective treatment for heart disease by Dr. Evan Shute of London, Ontario more than 50 years ago. His pioneering claims, which were unacceptable to the medical community at large, have been confirmed by recent findings from epidemiologic studies and clinical trials."
 
 In the 1940s, it had already become clear to the estrogen industry that vitamin E research was impinging on its vital interests.
@@ -122,6 +135,8 @@ Animal research in the 1930s was also showing that estrogen had many toxic effec
 
 Other researchers, who knew that progesterone protected against the toxic effects of estrogen, described vitamin E as the "progesterone-sparing agent," since so many of its antiestrogenic effects resembled those of progesterone.
 
+### For circulatory diseases 
+
 The Shute brothers began using vitamin E to treat circulatory diseases in general, rather than just in pregnant women--blood clots, phlebitis, hypertension, heart disease, and diabetes all responded well to treatment with large doses.
 
 Vitamin E, as its name indicates, was the fifth type of "vitamin" factor to be identified, and it received its name in 1922, even though its chemical structure hadn't been identified. The public quickly understood and accepted that certain substances in food were essential for life and health, so by 1940 practically all physicians were recommending the use of nutritional supplements.
@@ -129,6 +144,8 @@ Vitamin E, as its name indicates, was the fifth type of "vitamin" factor to be i
 If vitamin E was essential for human health, and achieved at least some of its amazing effects by opposing estrogen, then the synthetic estrogen industry had a problem.
 
 Around the beginning of the 20th century, it was commonly believed that aging resulted from the accumulation of insoluble metabolic by-products, sort of like the clinker ash in a coal furnace. Later, age pigment or lipofuscin, was proposed to be such a material. It is a brown pigment that generally increases with age, and its formation is increased by consumption of unsaturated fats, by vitamin E deficiency, by stress, and by exposure to excess estrogen.
+
+### Anti-toxic fats
 
 The larger the quantity of "toxic fat" stored in the body, the more careful the person must be about increasing metabolic and physical activity. Using more vitamin E, short-chain saturated fats, and other anti-lipid-peroxidation agents is important.
 
@@ -139,12 +156,16 @@ The prostaglandins are so problematic that their suppression is helpful, whether
 Vitamin E protects hypothalamic beta-endorphin neurons from estradiol neurotoxicity. Desjardins GC, Beaudet A, Schipper HM, Brawer JR.
 Med Chem. 2007
 
+### For the immune system
+
 Vitamin E and immune functions. Bendich A. Supplementation of these diets with higher than nutritionally adequate levels of vitamin E enhances immune responses. High levels of PUFA are immunosuppressive, and vitamin E can partially overcome this immunosuppression. High levels of vitamin C can protect tissue levels of vitamin E and may indirectly contribute to the immunoenhancement by vitamin E. Severe selenium deficiency is immunosuppressive.
 
 Vitamin E can protect some aspects of immune responses from the adverse effects of selenium deficiency. These data clearly indicate that nutrients that affect the overall antioxidant status have important effects on immune functions. In addition, antioxidant nutrient interactions can synergize to overcome the adverse effects of polyunsaturated fatty acids on immune functions.
 
 For example, mitochondrial Complex-I, NADH-ubiquinone reductase, is probably the most easily damaged part of the mitochondrion, and it is protected by vitamin K. Vitamin E, coenzyme Q, and the polyunsaturated fatty acids are also light sensitive, and they are more susceptible to free radical damage when vitamin K is deficient.
 Niacinamide, one of the B vitamins, provides energy to this mitochondrial system.
+
+### Reduce Iron
 
 He could prevent the development of the condition by giving the animals large doses of vitamin E, suggesting that the condition was produced by iron's oxidative actions.
 
@@ -156,7 +177,7 @@ In the 1970s, experimenters found that muscles from vitamin E deficient animals 
 
 Over the years, many experiments have established, both in vitro and in vivo, that fatigue, stress, aging, and inflammation cause cells to lose their normal constituents, but also to allow foreign materials to enter more easily.
 
-boost mitochondria
+### Boost mitochondria
 
 magnesium
 vitamin e
@@ -170,17 +191,19 @@ In the 1940s, some of the toxic effects of fish oil (such as testicular degenera
 
 An old theory of vitamin E's mechanism of action in improving fertility was that it spares progesterone.(9) It is established that some of the effects of vitamin E and progesterone are similar, for example, both prevent oxygen waste and appear to improve mitochondrial coupling of phosphorylation with respiration. I suspected that if they actually both work at the same mitochondrial site, then they must have a high mutual solubility.
 
+### Increase progesterone
+
 If progesterone is taken dissolved in vitamin E, it is absorbed very efficiently, and distributed quickly to all of the tissues. If a woman has ovaries, progesterone helps them to produce both progesterone and estrogen as needed, and also helps to restore normal functioning of the thyroid and other glands. If her ovaries have been removed, progesterone should be taken consistently to replace the lost supply.
 
 If progesterone is taken dissolved in vitamin E, it is absorbed very efficiently, and distributed quickly to all of the tissues. If a woman has ovaries, progesterone helps them to regulate themselves and their hormone production. It helps to restore normal functioning of the thyroid and other glands. If her ovaries have been removed, progesterone should be taken consistently to replace the lost supply. A progesterone deficiency has often been associated with increased susceptibility to cancer, and progesterone has been use
 
-and progesterone has been used to treat some types of cancer.
+And progesterone has been used to treat some types of cancer.
 
 The Shutes used vitamin E to treat the excessive blood clotting caused by estrogen, and vitamin E was considered to be an estrogen antagonist. Estrogen affected the liver’s production of clot-regulating proteins, and it also relaxed large veins, allowing blood pooling that slowed the blood sufficiently to give it time to form clots before returning to the lungs. Early in the century, unsaturated fats were found to inactivate the proteolytic enzymes that dissolve clots, and vitamin E was known, by the 1940s, to provide
 
 The amounts needed seem large if niacinamide is thought of as “vitamin B3,” but it should be considered as a factor that compensates for our unphysiological exposure to inappropriate fats. Aspirin and vitamin E are other natural substances that are therapeutic in “unnaturally” large amounts because of our continual exposure to the highly unsaturated plant-derived n-3 and n-6 fats.
 
-Aspirin's antiinflammatory actions are generally important when the polyunsaturated fats are producing inflammatory and degenerative changes, and aspirin prevents many of the problems associated with diabetes, reducing vascular leakiness. It improves mitochondrial respiration (De Cristobal, et al., 2002) and helps to regulate blood sugar and lipids (Yuan, et al., 2001). Aspirin's broad range of beneficial effects is probably analogous to vitamin E's, being proportional to
+Aspirin's anti-inflammatory actions are generally important when the polyunsaturated fats are producing inflammatory and degenerative changes, and aspirin prevents many of the problems associated with diabetes, reducing vascular leakiness. It improves mitochondrial respiration (De Cristobal, et al., 2002) and helps to regulate blood sugar and lipids (Yuan, et al., 2001). Aspirin's broad range of beneficial effects is probably analogous to vitamin E's, being proportional to
 
 Aspirin's broad range of beneficial effects is probably analogous to vitamin E's, being proportional to protection against the broad range of toxic effects of the polyunsaturated “essential” fatty acids.
 
@@ -190,9 +213,12 @@ The publicity campaign against "saturated fat" as an ally of cholesterol derived
 
 The cheapness of the seed oils led to their use in animal feeds, to promote growth. By the 1940s, the polyunsaturated oils, including fish oils, were known to cause deterioration of the brain, muscles, and gonads in a variety of animals, and this was found to be caused mainly by their destruction of vitamin E. A little later, the disease called steatitis or yellow fat disease was found to be produced in various animals that were fed too much fish or fish oil.
 
-Vitamin E protects hypothalamic beta-endorphin neurons from estradiol neurotoxicity. Desjardins GC; Beaudet A; Schipper HM; Brawer JR.
+Vitamin E protects
+the  hypothalamic beta-endorphin neurons from estradiol neurotoxicity. Desjardins GC; Beaudet A; Schipper HM; Brawer JR.
 
 Besides living at a high elevation or breathing extra carbon dioxide, the most certain way to increase the amount of carbon dioxide in the eye, and to prevent an excess of lactic acid, is to make sure that your thyroid function is adequate.
+
+### Anti-cataracts
 
 One man who took thyroid, USP, and vitamin E told me that his cataracts had regressed, but I haven’t known other people who tried this.
 
@@ -205,6 +231,6 @@ The enzymes which break down proteins are inhibited by unsaturated fats, and the
 
 Since bacteria in the rumens of cows destroy unsaturated fatty acids, but don't harm vitamin E, it seems reasonable to suppose that beef and milk would have a better ratio of vitamin E to unsaturated fats than do the plants eaten by the cows.
 
-High ratio of Vitamin E / Pufs
+### High ratio of Vitamin E / Pufs
 
 Toxic pesticides are found in higher concentrations in the urine and fat of slaughtered animals than in their livers, since the livers are detoxifying the chemicals and causing them to be excreted.
