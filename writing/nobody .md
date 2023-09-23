@@ -4,53 +4,53 @@ title: Nobody wants you when you're down and out
 
 ![istockphoto-516489761-612x612](istockphoto-516489761-612x612.jpg)
 
-> He once lived the life of a millionaire
+He once lived the life of a millionaire
 
-> Spending his  money he didn't care
+Spending his  money he didn't care
 
-> Always taking his friends out for a good time
+Always taking his friends out for a good time
 
-> Buying champagne, gin and wine
+Buying champagne, gin and wine
 
-> But just as soon as his dough got low
+But just as soon as his dough got low
 
-> He couldn't find a friend no place he go
+He couldn't find a friend no place he go
 
-> If he ever get his hands on a dollar again
+If he ever get his hands on a dollar again
 
-> He's gonna squeeze it and squeeze it till the eagle grins
+He's gonna squeeze it and squeeze it till the eagle grins
 
-> Nobody wants him when he's down and out
+Nobody wants him when he's down and out
 
-> In hid pocket not one penny
+In hid pocket not one penny
 And  friends he hasn't any
 
-> And soon as he gets on hus feet again
+And soon as he gets on hus feet again
 
-> Everybody is his long lost friend
+Everybody is his long lost friend
 
-> It's mighty strange, without a doubt
+It's mighty strange, without a doubt
 
-> But nobody wants him when he's down and out
+But nobody wants him when he's down and out
 
-> You know folks, he once had a mansion
+You know folks, he once had a mansion
 
-> Sitting way up on the side of a hill
+Sitting way up on the side of a hill
 
-> He'd give champagne and caviar parties
+He'd give champagne and caviar parties
 
 Just for fun and to get a thrill
 
-> But the wrong folks made it in his town
+But the wrong folks made it in his town
 
-> They finally got in
+They finally got in
 
-> And now he can't muscle up enough money To buy a shot of gin
+And now he can't muscle up enough money To buy a shot of gin
 
-> But you know, if he ever get his hands on a dollar again
+But you know, if he ever get his hands on a dollar again
 
-> He's gonna squeeze it and squeeze it And squeeze it till the eagle grins
+He's gonna squeeze it and squeeze it And squeeze it till the eagle grins
 
-> It's mighty strange without a doubt
+It's mighty strange without a doubt
 
-> But nobody wants him, nobody needs him Nobody wants him when he's down and out
+But nobody wants him, nobody needs him Nobody wants him when he's down and out
