@@ -2,7 +2,7 @@
 title: Vitamin E 
 ---
 
-## Vitamin E
+## Vitamin E the king of vitamins
 
 ![vitE](vitE.jpg)
 
