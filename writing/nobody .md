@@ -8,9 +8,13 @@ He once lived the life of a millionaire
 
 Spending his  money he didn't care
 
+---
+
 Always taking his friends out for a good time
 
 Buying champagne, gin and wine
+
+---
 
 But just as soon as his dough got low
 
