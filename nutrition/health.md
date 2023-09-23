@@ -4,6 +4,8 @@ title: health
 
 ## Vitamin E
 
+![vitE](vitE.jpg)
+
 ### Estrogen the enemy 
 
 The association between estrogen and cancer had become known during this time, and vitamin E, which was originally known as the fertility vitamin, was soon recognized to have antiestrogenic properties, as well as to prevent the deadly effects of excessive polyunsaturated fats in the diet.
