@@ -2,6 +2,9 @@
 title: Nobody
 ---
 
+![istockphoto-516489761-612x612](istockphoto-516489761-612x612.jpg)
+
+
 He once lived the life of a millionaire
 Spending his  money he didn't care
 Always taking his friends out for a good time
