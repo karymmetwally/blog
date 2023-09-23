@@ -112,8 +112,6 @@ This would emphasize high protein, low unsaturated fats, low iron, and high anti
 
 According to Dinkov, research suggests your need for vitamin E can be directly calculated by your PUFA intake. You need about 2 milligrams of vitamin E from all sources per gram of PUFA that you're eating. So, if you're eating 50 grams of PUFA daily — which is about 10 times what you should be getting — you need about 100 mg of total tocopherol.==
 
-==Dinkov also reviews the benefits of other supplements, such as vitamin E, which inhibits lipolysis, improves glucose metabolism, acts as an estrogen antagonist and helps counteract much of the damage caused by linoleic acid and other polyunsaturated fats (PUFAs).==
-
 According to Dinkov, research suggests your need for vitamin E can be directly calculated by your PUFA intake.
 
 Vitamin E protects hypothalamic beta-endorphin neurons from estradiol neurotoxicity. Desjardins GC; Beaudet A; Schipper HM; Brawer JR. Endocrinology, 1992 Nov, 131:5, 2482-4 "Estradiol valerate (EV)
