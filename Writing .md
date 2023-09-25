@@ -6,4 +6,4 @@ title: Writing
 
 ## Writing Pieces
 
-[nobody](/writing/nobody .md)
+[Nobody wants you when you're down and out](/writing/nobody .md)
