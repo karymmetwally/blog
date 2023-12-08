@@ -3,7 +3,7 @@ theme: minima
 logo: nobody.png
 
 header_pages: 
-   - Investment .md
+   - Investment.md
    - Drawing.md
-   - Nutrition .md
-   - Writing .md
+   - Nutrition.md
+   - Writing.md
