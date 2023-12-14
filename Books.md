@@ -75,6 +75,6 @@ The following meditations are the distilled experiences I have accumulated over 
 
 Increase your profits as an Advertiser by tapping into the Slow Living Lifestyle. Grow your audience by 10 fold just by following these simple advices.
 
-[More information](/books/build.md)
+[More information](https://www.amazon.com/Slow-Fast-Profits-KARIM-METWALLY-ebook/dp/B09BBH9T52/ref=mp_s_a_1_1?crid=7SPCFIEO4C74&keywords=karim+metwally+slow+for+fast&qid=1702563059&sprefix=karim+metwally+slow+for+fast%2Caps%2C736&sr=8-1)
 
 ---
