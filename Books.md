@@ -6,7 +6,7 @@ title: Books
 
 ![sketch1701294035155](/sketch1701294035155.jpg)
 
-[Build your Character](/books/build.md)
+[More information](/books/build.md)
 
 ---
 
