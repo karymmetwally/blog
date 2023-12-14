@@ -10,9 +10,10 @@ title: Books
 
 ---
 
+![bitloser](/bitloser.jpg)
 
 
-[Drawing 2](/drawing/drawing2 .md)
+[More information](/books/build.md)
 
 ## Jeddawi
 
