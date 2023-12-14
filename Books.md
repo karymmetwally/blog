@@ -45,7 +45,7 @@ Ce prince était l'un des plus grand héros de l'Égypte. Helas, ce mamlouk d'or
 
 Téméraire, courageux, aventurier, ce sont les descriptions qui dessinent bien la personnalité unique d'un des plus grands prince et commandant du moyen-Orient.
 
-[More information](/books/build.md)
+[More information](https://www.amazon.com/DJEDDAOUI-Mamlouk-G%C3%A9orgien-oubli%C3%A9-French-ebook/dp/B09SDN41LD/ref=mp_s_a_1_1?keywords=Djeddaoui&qid=1702562550&sr=8-1)
 
 ---
 
