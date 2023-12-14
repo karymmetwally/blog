@@ -1,5 +1,5 @@
 ---
-title: History
+title: Writing 
 ---
 this is the writing section
 

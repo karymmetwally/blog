@@ -2,15 +2,14 @@
 title: Home 
 ---
 
-## Build Your Character 
+## Karym Metwally
 
-He used a mobile phone. Mobile is the device. He called his father. The connection was set. A communication hand-shake was made. He used the mobile set to call his Mom. He called his dad, he called his Mom. His hand was shaky when she didn't reply. His Mom was at home alone. He was a bit worried about her. She was always falling asleep while watching T.V. The television set was definitely entertaining. Sleepy she was.
+You can say I am multidisciplinary. I am a self-made writer, economist, nutritionist, traveler and artist; All blended into one.
+
+![IMG-20230323-WA0003](/IMG-20230323-WA0003.jpg)
 
 > Paintings, culture and Arts
-
-He used a mobile phone. Mobile is the device. He called his father. The connection was set. A communication hand-shake was made. He used the mobile set to call his Mom. He called his dad, he called his Mom. His hand was shaky when she didn't reply. His Mom was at home alone. He was a bit worried about her. She was always falling asleep while watching T.V. The television set was definitely entertaining. Sleepy she was.
-
-![sketch1701294035155](/sketch1701294035155.jpg)
-
-
-He used a mobile phone. Mobile is the device. He called his father. The connection was set. A communication hand-shake was made. He used the mobile set to call his Mom. He called his dad, he called his Mom. His hand was shaky when she didn't reply. His Mom was at home alone. He was a bit worried about her. She was always falling asleep while watching T.V. The television set was definitely entertaining. Sleepy she was.
+> Economics and Business 
+> Author of books
+> Traveler to Euroasia
+> Nutritionist by passion
