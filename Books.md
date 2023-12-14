@@ -47,7 +47,7 @@ Reckless, courageous, adventurous, these are the descriptions that draw well the
 
 ### The nine Foundations of Business and Salesmanship
 
-
+![nine](/nine.png)
 
 ---
 
