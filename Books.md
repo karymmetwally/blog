@@ -39,7 +39,11 @@ Reckless, courageous, adventurous, these are the descriptions that draw well the
 
 ![djeddaoui](/djeddaoui.jpg)
 
+Hassan Bey Al-Djeddaoui était un Mamlouk esclave enlevé dés son plus tendre âge des plaines de l'ouest de la Géorgie. Ce petit gosse de 15 ans, n'était pas du genre timide. Il avait plutôt un penchant pour les bagarres.
 
+Ce prince était l'un des plus grand héros de l'Égypte. Helas, ce mamlouk d'origine Géorgienne est encore méconnu jusqu'à présent. Comme si l'histoire l'avait oublié
+
+Téméraire, courageux, aventurier, ce sont les descriptions qui dessinent bien la personnalité unique d'un des plus grands prince et commandant du moyen-Orient.
 
 [More information](/books/build.md)
 
