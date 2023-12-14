@@ -1,5 +1,5 @@
 ---
-title: Nutrition 
+title: Self-development
 ---
 
 The benefits of vitamin E
