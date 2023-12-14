@@ -1,5 +1,5 @@
 ---
-title: Drawing 
+title: Economics
 ---
 
 ## Drawing Tutorial
