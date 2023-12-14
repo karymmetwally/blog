@@ -27,7 +27,10 @@ title: Books
 
 ### Djeddaoui
 
+![djeddaoui](/djeddaoui.jpg)
 
+
+[More information](/books/build.md)
 
 ---
 
