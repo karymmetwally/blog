@@ -51,6 +51,8 @@ Reckless, courageous, adventurous, these are the descriptions that draw well the
 
 ### Investing Meditation
 
+![investingmeditation_1](/investingmeditation_1.jpg)
+
 
 
 The following meditations are the distilled experiences I have accumulated over 20 years of investment in real estates, crypto, stocks, antiques in Egypt, Turkey and Georgia. I hope it will serve you in your quest to battle the investor's worst enemy namely inflatory pressures which are created by governments printing fiat money. The meditations show my asymmetric style of investment and so far it has benefited me well .. I must thank God for that boon.
