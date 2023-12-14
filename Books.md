@@ -49,6 +49,8 @@ Reckless, courageous, adventurous, these are the descriptions that draw well the
 
 ![nine](/nine.png)
 
+[More information](/books/build.md)
+
 ---
 
 ### Investing Meditation
