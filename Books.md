@@ -2,11 +2,13 @@
 title: Books 
 ---
 
-## Build your Character 
+---
 
 ![sketch1701294035155](/sketch1701294035155.jpg)
 
 [Build your Character](/books/build.md)
+
+---
 
 ## Being a Bit of a Loser
 
