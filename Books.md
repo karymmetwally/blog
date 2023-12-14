@@ -68,3 +68,9 @@ The following meditations are the distilled experiences I have accumulated over 
 [More information](/books/build.md)
 
 ---
+
+### Slow for fast profit
+
+
+
+Increase your profits as an Advertiser by tapping into the Slow Living Lifestyle. Grow your audience by 10 fold just by following these simple advices.
