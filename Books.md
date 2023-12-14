@@ -65,7 +65,7 @@ Businessmen and salesmen now have the ability to completely transform their busi
 
 The following meditations are the distilled experiences I have accumulated over 20 years of investment in real estates, crypto, stocks, antiques in Egypt, Turkey and Georgia. I hope it will serve you in your quest to battle the investor's worst enemy namely inflatory pressures which are created by governments printing fiat money. The meditations show my asymmetric style of investment and so far it has benefited me well .. I must thank God for that boon.
 
-[More information](/books/build.md)
+[More information](https://www.amazon.com/Investing-Meditation-KARIM-MEDHAT-METWALLY-ebook/dp/B0B21112FR/ref=mp_s_a_1_1?crid=7R6GBCBCD3Z&keywords=investing+karim+Metwally&qid=1702563493&sprefix=investing+karim+metwally%2Caps%2C1694&sr=8-1)
 
 ---
 
