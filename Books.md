@@ -8,6 +8,8 @@ title: Books
 
 ![sketch1701294035155](/sketch1701294035155.jpg)
 
+Now, it's a fitting moment to rekindle that feeling. It's a chance to rediscover your sense of adventure, to nurture your character, and to sharpen your focus on your life's purpose. And make a real impact on the world around you.
+
 [More information](/books/build.md)
 
 ---
