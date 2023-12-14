@@ -49,6 +49,8 @@ Reckless, courageous, adventurous, these are the descriptions that draw well the
 
 ![nine](/nine.png)
 
+Businessmen and salesmen now have the ability to completely transform their business using the nine foundations and prosper on the long term
+
 [More information](/books/build.md)
 
 ---
