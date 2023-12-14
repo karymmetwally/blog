@@ -4,11 +4,15 @@ title: Books
 
 ---
 
+### Build your Character 
+
 ![sketch1701294035155](/sketch1701294035155.jpg)
 
 [More information](/books/build.md)
 
 ---
+
+### Being a Bit of a Loser
 
 ![bitloser](/bitloser.jpg)
 
@@ -16,6 +20,8 @@ title: Books
 [More information](/books/build.md)
 
 ---
+
+### Jeddawi 
 
 ![1696779527444](/1696779527444.jpg)
 
@@ -27,6 +33,7 @@ title: Books
 
 ### Djeddaoui
 
+![djeddaoui](/djeddaoui.jpg)
 
 
 
