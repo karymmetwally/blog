@@ -10,7 +10,7 @@ title: Books
 
 ---
 
-## Being a Bit of a Loser
+
 
 [Drawing 2](/drawing/drawing2 .md)
 
