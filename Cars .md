@@ -1,5 +1,0 @@
----
-title: Cars 
----
-
-## General Cars

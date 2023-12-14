@@ -1,5 +1,0 @@
----
-title: Religion 
----
-
-## General Religion 
