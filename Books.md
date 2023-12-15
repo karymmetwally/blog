@@ -10,7 +10,7 @@ title: Books
 
 Now, it's a fitting moment to rekindle that feeling. It's a chance to rediscover your sense of adventure, to nurture your character, and to sharpen your focus on your life's purpose. And make a real impact on the world around you.
 
-[More information](/books/build.md)
+[More information](https://www.amazon.com/BUILD-YOUR-CHARACTER-Influence-people-ebook/dp/B0CPJY9LQ8/ref=mp_s_a_1_18?crid=1BJ4I1NKMDWCO&keywords=build+your+character&qid=1702602853&sprefix=build+your+character%2Caps%2C377&sr=8-18)
 
 ---
 
