@@ -55,7 +55,7 @@ Téméraire, courageux, aventurier, ce sont les descriptions qui dessinent bien 
 
 Businessmen and salesmen now have the ability to completely transform their business using the nine foundations and prosper on the long term
 
-[More information](/books/build.md)
+[More information](https://www.amazon.com/Nine-Foundations-Business-Salesmanship-Completely-ebook/dp/B09J1L46XC/ref=mp_s_a_1_1?crid=2WP512A1X8SXM&keywords=nine+Foundations+karim&qid=1702603013&sprefix=nine+foundations+karim%2Caps%2C453&sr=8-1)
 
 ---
 
