@@ -31,7 +31,7 @@ I am an early retired or unemployed whatever you want to call it. During the cov
 Hassan Bey Al-Jeddawi was a Mamluk slave abducted at an early age from the plains of western Georgia. This 15-year-old kid was not the shy type. He had more of a penchant for fighting. This prince was one of Egypt's greatest heroes. Alas, this mamluk of Georgian origin is still unknown until now. As if history had forgotten him.
 Reckless, courageous, adventurous, these are the descriptions that draw well the unique personality of one of the greatest prince and commander of the Middle East. Hassan Bey's tactics should be taught in top military schools. He led a military campaign against the Bedouins, the Mohametans. As well as against the largest army during this period: the French army under the command of Bonaparte. But he also valiantly fought the Ottomans who were represented by the reign of Mohamed Ali. Accounts of his exploits are quoted in many chronicles. The most important of which is that of the historian Al-Jabarti. The chronicles attest to his Abkhazian (Georgian) origin. They also attest that his kheshdashs (colleagues) were of Abkhazian origin. His name is also mentioned in many books and novels. He was also quoted in the novel "Anastasius" by Thomas Hope. All the enemies testified to his bravery and his cunning. And his skill in riding and fighting had become well known in Egypt and abroad by the end of the eighteenth century.
 
-[More information](/books/build.md)
+[More information](https://www.amazon.com/Jeddawi-Georgian-Mamluk-KARIM-METWALLY-ebook/dp/B0BQP6NW6K/ref=mp_s_a_1_2?crid=8FJA5LAWS90C&keywords=Jeddawi+karim&qid=1702604449&sprefix=jeddawi+karim%2Caps%2C309&sr=8-2)
 
 ---
 
