@@ -20,9 +20,7 @@ We live a life full of extravagance, showing off, appearances. A life beyond our
 
 The principles in this book encapsulate the wisdom Pete gained from Carl's guidance. I hope this will benefit future generations on how to control the thyself, practice discipline save money and prosper.
 
- https://a.co/d/hQnGubG
- 
- [More Information](https://a.co/d/hQnGubG)
+[More Information](https://a.co/d/hQnGubG)
 
 ---
 
