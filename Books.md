@@ -4,6 +4,24 @@ title: Books
 
 ---
 
+### Save Our Souls
+
+
+
+This book may save your life!
+
+There is a pervasive conspiracy against embracing our individuality, uniqueness, and independence. Changing these ingrained habits seems like an uphill battle.
+
+We secretly yearn for change but then get caught in the trap of societal expectations. It's a constant struggle against the conformity pressure. We hesitate to break free from habits and traditions, even in how we dress or live.
+
+We buy things – not for ourselves but with others in mind, seeking their approval as if we need permission to be who we are.
+
+We live a life full of extravagance, showing off, appearances. A life beyond our means which lead to indebtedness and sometimes God forbid to crime and misery.
+
+The principles in this book encapsulate the wisdom Pete gained from Carl's guidance. I hope this will benefit future generations on how to control the thyself, practice discipline save money and prosper.
+
+---
+
 ### Build your Character 
 
 ![sketch1701294035155](/sketch1701294035155.jpg)
