@@ -6,7 +6,7 @@ title: Books
 
 ### Save Our Souls
 
-
+![COVER_1000x625px](/COVER_1000x625px.jpg)
 
 This book may save your life!
 
