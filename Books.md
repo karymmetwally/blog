@@ -22,7 +22,7 @@ The principles in this book encapsulate the wisdom Pete gained from Carl's guida
 
  https://a.co/d/hQnGubG
  
- [More Information]( https://a.co/d/hQnGubG)
+ [More Information](https://a.co/d/hQnGubG)
 
 ---
 
