@@ -16,7 +16,7 @@ You can say I am multidisciplinary. I am a self-made writer, economist, nutritio
 
 > Traveler to Euroasia
 
-> Antiques Collectioner
+> Antiques Collector
 
 > Nutritionist by passion
 
