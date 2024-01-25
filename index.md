@@ -4,7 +4,7 @@ title: About me
 
 ---
 
-You can say I am multidisciplinary. 
+You can say I am multidisciplinary person.
 
 A self-made writer, economist, nutritionist, traveler and artist; All blended into one.
 
