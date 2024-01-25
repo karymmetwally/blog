@@ -4,7 +4,7 @@ title: About me
 
 ---
 
-You can say I am multidisciplinary person.
+You can say I am multidisciplinary person. Based in Alexandria, Egypt.
 
 A self-made writer, economist, nutritionist, traveler and artist; All blended into one.
 
