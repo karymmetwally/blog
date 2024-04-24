@@ -1,5 +1,5 @@
 ---
-Title: Investment
+title: Investment
 ---
 
 ## El Salvador launched BTC ‘Freedom Visa’
