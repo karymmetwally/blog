@@ -1,10 +1,5 @@
-
 ---
 title: News
----
-
----
-title:  News
 ---
 
 ### Shipping companies halt Red Sea shipments due to Houthi attacks
